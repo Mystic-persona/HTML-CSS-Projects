@@ -29,6 +29,6 @@ Got an idea? Spotted a bug? Want to improve a project? I'd love to hear from you
 ## :fire: Keep Learning:
 Follow me on Github to stay updated with new projects.
 Subscribe to my [Youtube Channel]
-(https://www.youtube.com/@mysticpersona_) for tutorials, project walkthroughs, and more!
+(https://youtube.com/@mysticpersona_?si=sMW4L7cnNYYd1l5Z) for tutorials, project walkthroughs, and more!
 
 ### Happy coding, and remember - the web is your playground! :earth_asia: :sparkles:
